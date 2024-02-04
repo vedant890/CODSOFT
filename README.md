@@ -1,6 +1,6 @@
 # Portfolio Project
 
-Welcome to my portfolio project! This simple web application showcases my skills, achievements, and provides a brief introduction about me. The project is built using basic HTML, JavaScript, and CSS.
+Welcome to my portfolio project! This simple web application showcases my skills, achievements, and provides a brief introduction about me. The project is built using basic HTML, JavaScript, and CSS. this is the basic web application. which is part of the Codesoft internship program
 
 ## Features
 
